@@ -1,0 +1,328 @@
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.exe
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.pdb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.exe
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.pdb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\DartScoreFont.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MessageFont.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Blank.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\BottomPanel.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Crown.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Button.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\ButtonSelected.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\1.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\15.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\16.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\17.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\18.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\19.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\20.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\3.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Bull.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Closed.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\GameplayScreen.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Icons\Arrow.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\LeftPanel.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark0.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark1.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark3.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MenuBackground.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MessageBackground.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Numbers.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartBackground.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartHighlight.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartStroke.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Double.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DoubleBull.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Button.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerChangeButton.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Segment.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SegmentMap.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Serial.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SerialDisconnected.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SingleBull.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Triple.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\applause.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\cricketclosed.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\enter.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\gamestart.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\select.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple2.xnb
+c:\users\marpe\documents\visual studio 2010\Projects\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Blank.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Crown.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Button.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\ButtonSelected.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\1.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\15.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\16.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\17.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\18.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\19.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\20.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\3.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Bull.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Closed.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Icons\Arrow.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark0.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark1.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark3.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MenuBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MessageBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Numbers.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartHighlight.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartStroke.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Double.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DoubleBull.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Button.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerChangeButton.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Segment.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SegmentMap.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Serial.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SerialDisconnected.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SingleBull.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Triple.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\applause.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\cricketclosed.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\enter.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\gamestart.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\select.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple2.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.exe
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.pdb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.exe
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.pdb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\DartScoreFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MessageFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuHeadingFont.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Blank.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\BottomPanel.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Crown.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Button.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\ButtonSelected.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\1.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\15.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\16.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\17.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\18.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\19.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\20.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\3.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Bull.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Closed.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\GameplayScreen.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Icons\Arrow.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\LeftPanel.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark0.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark1.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark3.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MenuBackground.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MessageBackground.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Numbers.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartBackground.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartHighlight.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartStroke.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Double.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DoubleBull.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Button.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerChangeButton.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Segment.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SegmentMap.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Serial.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SerialDisconnected.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SingleBull.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Triple.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\applause.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\cricketclosed.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\enter.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\gamestart.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\select.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple2.xnb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.wmv
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.exe
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.pdb
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.csprojResolveAssemblyReference.cache
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.exe
+f:\Backups\Backup 2012-10-28\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.pdb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\DartScoreFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MessageFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\ScoreFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\SmallFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuHeadingFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Blank.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Crown.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Button.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\ButtonSelected.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\1.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\15.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\16.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\17.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\18.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\19.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\20.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\3.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Bull.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Closed.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Icons\Arrow.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark0.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark1.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark3.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MessageBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartHighlight.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartStroke.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Double.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DoubleBull.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Button.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerChangeButton.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Segment.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SegmentMap.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Serial.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SerialDisconnected.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SingleBull.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Triple.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\applause.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\cricketclosed.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\enter.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\gamestart.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\select.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple2.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.wmv
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.exe
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\SuperDarts.pdb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.csprojResolveAssemblyReference.cache
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.exe
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.pdb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\RoundScoresFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Numbers.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Backgrounds\AbstractBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MenuBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Numbers.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\LeftPanelLabelFont.xnb
+c:\Users\marpe\Documents\Visual Studio 2012\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\RoundScoresFontSmall.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Numbers.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Backgrounds\AbstractBackground.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\obj\x86\Debug\SuperDarts.csprojResolveAssemblyReference.cache
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\HatTrick.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\HighTon.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\LowTon.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\ThreeInABed.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\ThreeInTheBlack.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\TonEighty.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\WhiteHorse.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\HatTrick.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\HighTon.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\LowTon.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\ThreeInABed.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\ThreeInTheBlack.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\TonEighty.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\WhiteHorse.wmv
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Arial36.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Arial48.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Arial60.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Trebuchet64.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Arial12.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Arial64.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Trebuchet32.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Trebuchet22.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Trebuchet24.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\Trebuchet48.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Glow.xnb
+c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerNameBackground.xnb

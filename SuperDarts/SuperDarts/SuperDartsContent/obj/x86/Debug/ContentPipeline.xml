@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Awards\PhoenixEye.wmv</Source>
+      <Name>Awards\PhoenixEye</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.xnb</Output>
+      <Extra>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Awards\PhoenixEye.wmv</Extra>
+      <Time>2010-09-09T00:51:20.1958651+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\DartScoreFont.spritefont</Source>
+      <Name>Fonts\DartScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\DartScoreFont.xnb</Output>
+      <Time>2010-09-09T17:46:31.5507804+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MenuFont.spritefont</Source>
+      <Name>Fonts\MenuFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MenuFont.xnb</Output>
+      <Time>2010-09-13T00:46:16.3106964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\MessageFont.spritefont</Source>
+      <Name>Fonts\MessageFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\MessageFont.xnb</Output>
+      <Time>2010-09-09T00:17:52.5880365+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ScoreFont.spritefont</Source>
+      <Name>Fonts\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\ScoreFont.xnb</Output>
+      <Time>2010-09-08T22:45:56.5785388+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\SmallFont.spritefont</Source>
+      <Name>Fonts\SmallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Fonts\SmallFont.xnb</Output>
+      <Time>2010-09-12T23:21:44.5926107+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Blank.png</Source>
+      <Name>Images\Blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Blank.xnb</Output>
+      <Time>2010-09-07T13:46:30.6544586+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\BottomPanel.png</Source>
+      <Name>Images\BottomPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\BottomPanel.xnb</Output>
+      <Time>2010-08-17T02:51:18.8766536+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Crown.png</Source>
+      <Name>Images\Crown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Crown.xnb</Output>
+      <Time>2010-09-02T20:39:30.7409966+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Button.png</Source>
+      <Name>Images\Dark\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Button.xnb</Output>
+      <Time>2010-09-14T21:15:54.9687504+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\ButtonSelected.png</Source>
+      <Name>Images\Dark\ButtonSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\ButtonSelected.xnb</Output>
+      <Time>2010-09-14T21:05:31.597656+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\1.png</Source>
+      <Name>Images\Dark\CricketNumbers\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\1.xnb</Output>
+      <Time>2010-09-09T17:30:59.2144538+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\15.png</Source>
+      <Name>Images\Dark\CricketNumbers\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\15.xnb</Output>
+      <Time>2010-09-09T16:55:35.5949898+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\16.png</Source>
+      <Name>Images\Dark\CricketNumbers\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\16.xnb</Output>
+      <Time>2010-09-09T16:55:20.2341112+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\17.png</Source>
+      <Name>Images\Dark\CricketNumbers\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\17.xnb</Output>
+      <Time>2010-09-09T16:54:47.1622196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\18.png</Source>
+      <Name>Images\Dark\CricketNumbers\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\18.xnb</Output>
+      <Time>2010-09-09T16:54:33.3694307+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\19.png</Source>
+      <Name>Images\Dark\CricketNumbers\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\19.xnb</Output>
+      <Time>2010-09-09T16:54:17.2435083+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\2.png</Source>
+      <Name>Images\Dark\CricketNumbers\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\2.xnb</Output>
+      <Time>2010-09-09T17:30:54.0721597+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\20.png</Source>
+      <Name>Images\Dark\CricketNumbers\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\20.xnb</Output>
+      <Time>2010-09-09T16:54:03.251708+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\3.png</Source>
+      <Name>Images\Dark\CricketNumbers\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\3.xnb</Output>
+      <Time>2010-09-09T17:31:11.6521652+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\Bull.png</Source>
+      <Name>Images\Dark\CricketNumbers\Bull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Bull.xnb</Output>
+      <Time>2010-09-09T16:58:40.6185725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\CricketNumbers\Closed.png</Source>
+      <Name>Images\Dark\CricketNumbers\Closed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\CricketNumbers\Closed.xnb</Output>
+      <Time>2010-09-10T02:11:29.1516377+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\GameplayScreen.png</Source>
+      <Name>Images\Dark\GameplayScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\GameplayScreen.xnb</Output>
+      <Time>2010-09-12T16:26:54.2941622+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Icons\Arrow.png</Source>
+      <Name>Images\Dark\Icons\Arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Icons\Arrow.xnb</Output>
+      <Time>2010-09-14T00:23:00.554688+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\LeftPanel.png</Source>
+      <Name>Images\Dark\LeftPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\LeftPanel.xnb</Output>
+      <Time>2010-09-12T16:30:21.1239922+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Marks\Mark0.png</Source>
+      <Name>Images\Dark\Marks\Mark0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark0.xnb</Output>
+      <Time>2010-09-08T21:47:49.2450747+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Marks\Mark1.png</Source>
+      <Name>Images\Dark\Marks\Mark1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark1.xnb</Output>
+      <Time>2010-09-04T14:07:37.6278006+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Marks\Mark2.png</Source>
+      <Name>Images\Dark\Marks\Mark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark2.xnb</Output>
+      <Time>2010-09-04T14:07:30.6864036+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Marks\Mark3.png</Source>
+      <Name>Images\Dark\Marks\Mark3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Marks\Mark3.xnb</Output>
+      <Time>2010-09-04T14:07:24.5410521+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\MenuBackground.png</Source>
+      <Name>Images\Dark\MenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MenuBackground.xnb</Output>
+      <Time>2010-09-14T21:51:15.5937504+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\MessageBackground.png</Source>
+      <Name>Images\Dark\MessageBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\MessageBackground.xnb</Output>
+      <Time>2010-09-12T23:57:36.5507808+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Dark\Numbers.png</Source>
+      <Name>Images\Dark\Numbers</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Dark\Numbers.xnb</Output>
+      <Time>2010-09-12T16:17:29.3408487+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DartBackground.png</Source>
+      <Name>Images\DartBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartBackground.xnb</Output>
+      <Time>2010-10-11T17:29:11.9960928+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DartHighlight.png</Source>
+      <Name>Images\DartHighlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartHighlight.xnb</Output>
+      <Time>2010-08-16T23:53:03.7739287+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DartStroke.png</Source>
+      <Name>Images\DartStroke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DartStroke.xnb</Output>
+      <Time>2010-08-16T23:53:57.4730001+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Double.png</Source>
+      <Name>Images\Double</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Double.xnb</Output>
+      <Time>2010-10-10T15:27:24.4496309+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\DoubleBull.png</Source>
+      <Name>Images\DoubleBull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\DoubleBull.xnb</Output>
+      <Time>2010-10-10T16:07:18.540565+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Light\Button.png</Source>
+      <Name>Images\Light\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Light\Button.xnb</Output>
+      <Time>2010-09-16T00:26:23.5989346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\PlayerChangeButton.png</Source>
+      <Name>Images\PlayerChangeButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\PlayerChangeButton.xnb</Output>
+      <Time>2010-09-09T19:59:17.1093179+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Segment.png</Source>
+      <Name>Images\Segment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Segment.xnb</Output>
+      <Time>2010-10-10T15:26:52.2667901+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SegmentMap.png</Source>
+      <Name>Images\SegmentMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SegmentMap.xnb</Output>
+      <Time>2010-10-10T15:15:20.8062408+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Serial.png</Source>
+      <Name>Images\Serial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Serial.xnb</Output>
+      <Time>2010-09-14T23:24:30.2806697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SerialDisconnected.png</Source>
+      <Name>Images\SerialDisconnected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SerialDisconnected.xnb</Output>
+      <Time>2010-09-14T23:27:38.7814513+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\SingleBull.png</Source>
+      <Name>Images\SingleBull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\SingleBull.xnb</Output>
+      <Time>2010-10-10T16:07:04.3867555+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Triple.png</Source>
+      <Name>Images\Triple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Images\Triple.xnb</Output>
+      <Time>2010-10-10T15:27:16.2051593+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\applause.wav</Source>
+      <Name>Sounds\applause</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\applause.xnb</Output>
+      <Time>2007-12-03T12:39:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bust.wav</Source>
+      <Name>Sounds\bust</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust.xnb</Output>
+      <Time>2007-09-30T22:01:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bust2.wav</Source>
+      <Name>Sounds\bust2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\bust2.xnb</Output>
+      <Time>2007-12-03T10:43:28+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\cricketclosed.wav</Source>
+      <Name>Sounds\cricketclosed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\cricketclosed.xnb</Output>
+      <Time>2010-08-14T00:54:49.0002562+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\double.wav</Source>
+      <Name>Sounds\double</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double.xnb</Output>
+      <Time>2007-09-30T21:57:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\double2.wav</Source>
+      <Name>Sounds\double2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\double2.xnb</Output>
+      <Time>2007-12-03T11:13:40+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\doublebullseye.wav</Source>
+      <Name>Sounds\doublebullseye</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye.xnb</Output>
+      <Time>2007-09-30T21:51:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\doublebullseye2.wav</Source>
+      <Name>Sounds\doublebullseye2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\doublebullseye2.xnb</Output>
+      <Time>2007-12-03T10:41:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enter.wav</Source>
+      <Name>Sounds\enter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\enter.xnb</Output>
+      <Time>2007-12-03T12:30:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\finalround.wav</Source>
+      <Name>Sounds\finalround</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround.xnb</Output>
+      <Time>2007-09-30T22:04:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\finalround2.wav</Source>
+      <Name>Sounds\finalround2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\finalround2.xnb</Output>
+      <Time>2007-12-03T13:29:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\gamestart.wav</Source>
+      <Name>Sounds\gamestart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\gamestart.xnb</Output>
+      <Time>2007-12-03T11:00:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\roundstart.wav</Source>
+      <Name>Sounds\roundstart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart.xnb</Output>
+      <Time>2007-09-30T22:22:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\roundstart2.wav</Source>
+      <Name>Sounds\roundstart2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\roundstart2.xnb</Output>
+      <Time>2007-12-03T12:52:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\select.wav</Source>
+      <Name>Sounds\select</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\select.xnb</Output>
+      <Time>2007-12-03T12:30:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\single.wav</Source>
+      <Name>Sounds\single</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single.xnb</Output>
+      <Time>2007-09-30T21:54:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\single2.wav</Source>
+      <Name>Sounds\single2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\single2.xnb</Output>
+      <Time>2007-12-03T11:15:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\singlebullseye.wav</Source>
+      <Name>Sounds\singlebullseye</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye.xnb</Output>
+      <Time>2007-09-30T21:50:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\singlebullseye2.wav</Source>
+      <Name>Sounds\singlebullseye2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\singlebullseye2.xnb</Output>
+      <Time>2007-12-03T10:40:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\throwend.wav</Source>
+      <Name>Sounds\throwend</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend.xnb</Output>
+      <Time>2007-09-30T22:09:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\throwend2.wav</Source>
+      <Name>Sounds\throwend2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwend2.xnb</Output>
+      <Time>2007-12-03T12:27:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\throwstart.wav</Source>
+      <Name>Sounds\throwstart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart.xnb</Output>
+      <Time>2007-09-30T22:11:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\throwstart2.wav</Source>
+      <Name>Sounds\throwstart2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\throwstart2.xnb</Output>
+      <Time>2007-12-03T12:16:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\triple.wav</Source>
+      <Name>Sounds\triple</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple.xnb</Output>
+      <Time>2007-09-30T21:58:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\triple2.wav</Source>
+      <Name>Sounds\triple2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\Sounds\triple2.xnb</Output>
+      <Time>2007-12-03T11:09:16+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDartsContent\</RootDirectory>
+      <LoggerRootDirectory>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDartsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\Users\marpe\Documents\Visual Studio 2010\Projects\martinpersson-darts\SuperDarts\SuperDarts\SuperDarts\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-01-18T16:17:13.1406409+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
