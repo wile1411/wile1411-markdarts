@@ -238,33 +238,9 @@ namespace SuperDarts
             // Draw dart score
             foreach (Dart dart in Mode.CurrentPlayerRound.Darts)
             {
-                Color c = Color.White;
-                string text = "";
-
-                if (dart.Multiplier == 1)
-                {
-                    text = "Single";
-                }
-                else if (dart.Multiplier == 2)
-                {
-                    text = "Double";
-                    c = Color.Yellow;
-                }
-                else if (dart.Multiplier == 3)
-                {
-                    text = "Triple";
-                    c = Color.Magenta;
-                }
-
-                if (dart.Segment == 0 && dart.Multiplier == 0)
-                    text = "MISS";
-                else if (dart.Segment != 25)
-                    text += " " + dart.Segment.ToString();
-                else
-                {
-                    text += " BULL";
-                    c = Color.Red;
-                }
+                string text;
+                Color c;
+                dart.GetVerbose(out text, out c);
 
                 Vector2 offset = ScreenManager.Trebuchet32.MeasureString(text) * 0.5f;
                 TextBlock.DrawShadowed(spriteBatch, ScreenManager.Trebuchet32, text, c, temp + center - offset);

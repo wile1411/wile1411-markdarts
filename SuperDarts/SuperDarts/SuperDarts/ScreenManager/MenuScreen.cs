@@ -124,9 +124,14 @@ namespace SuperDarts
 
             if (inputState.MenuCancel)
             {
-                SuperDarts.SoundManager.PlaySound(SoundCue.MenuEnter);
-                ExitScreen(this, null);
+                CancelScreen();
             }
+        }
+
+        public virtual void CancelScreen()
+        {
+            SuperDarts.SoundManager.PlaySound(SoundCue.MenuBack);
+            ExitScreen(this, null);
         }
 
         public override void Update(GameTime gameTime, bool isCoveredByOtherScreen)

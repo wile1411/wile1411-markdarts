@@ -23,7 +23,7 @@ namespace SuperDarts
 
         public int CompareTo(object obj)
         {
-            IntPair temp = (IntPair)obj;
+            IntPair temp = obj as IntPair;
 
             if (temp != null)
             {
@@ -97,7 +97,7 @@ namespace SuperDarts
                 sb.AppendLine("Could not establish a connection with the dart board:");
                 sb.AppendLine("\""+ex.Message+"\"");
                 sb.AppendLine();
-                sb.AppendLine("Please make sure that the dart board is connected");
+                sb.AppendLine("Please make sure that the dart board is connected and\nthat the correct settings have been configured in the options.");
 
                 MessageBoxScreen mb = new MessageBoxScreen("Error", sb.ToString(), MessageBoxButtons.Ok);
                 ((TextBlock)mb.StackPanel.Items[0]).Color = Color.Red;
@@ -161,6 +161,7 @@ namespace SuperDarts
                 // Check if the given coordinates are mapped to a segment
                 if (SuperDarts.Options.SegmentMap.ContainsValue(coords))
                 {
+                    //Find the key (segment, multiplier) which contains the value of the received X, Y coordinates
                     IntPair segmentInfo = SuperDarts.Options.SegmentMap.First(p => coords.Equals(p.Value)).Key;
 
                     if (segmentInfo != null && OnDartRegistered != null)

@@ -55,10 +55,14 @@ namespace SuperDarts
         /// SegmentMap holds which dartboard coordinates that correspond to which segment.
         /// The dartboard coordinates may change depending on how you configure the cables running
         /// from the dartboard matrix to the circuit.
+        /// 
+        /// The key pair contains the segment, multiplier and the value pair contains the x, y coordinates which the key is mapped to.
+        /// If for example the single 20 segment is pressed on the dartboard, and the coordinates 4, 18 are sent, the segment map should
+        /// contain a key pair (20, 1) with value (4, 18).
         /// </summary>
         public Dictionary<IntPair, IntPair> SegmentMap = new Dictionary<IntPair, IntPair>();
 
-        const string OptionsFilename = "options.bin";
+        public const string OptionsFilename = "options.bin";
 
         public static Options Load()
         {
@@ -67,6 +71,7 @@ namespace SuperDarts
                 FileInfo info = new FileInfo(OptionsFilename);
                 if (info.Length > 0)
                 {
+                    System.Diagnostics.Debug.WriteLine("Options loaded: " + OptionsFilename);
                     BinaryFormatter bf = new BinaryFormatter();
                     FileStream fs = new FileStream(OptionsFilename, FileMode.Open);
                     Options temp = (Options)bf.Deserialize(fs);
@@ -76,15 +81,26 @@ namespace SuperDarts
                 }
             }
 
+            System.Diagnostics.Debug.WriteLine("Options file not found, using default");
+
             return new Options();
         }
 
-        public void Save()
+        public bool Save()
         {
-            BinaryFormatter bf = new BinaryFormatter();
-            FileStream fs = new FileStream(OptionsFilename, FileMode.Create);
-            bf.Serialize(fs, this);
-            fs.Close();
+            try
+            {
+                BinaryFormatter bf = new BinaryFormatter();
+                FileStream fs = new FileStream(OptionsFilename, FileMode.Create);
+                bf.Serialize(fs, this);
+                fs.Close();
+                return true;
+            }
+            catch (Exception)
+            {
+                //throw;
+                return false;
+            }
         }
     }
 }

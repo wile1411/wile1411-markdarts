@@ -33,13 +33,18 @@ namespace SuperDarts
         int[] segmentOrder = new int[] { 20, 1, 18, 4, 13, 6, 10, 15, 2, 17, 3, 19, 7, 16, 8, 11, 14, 9, 12, 5 };
         Vector2 mouseVector = Vector2.Zero;
         BindSegmentScreen bindScreen;
-        Texture2D[] texture;
+
+        /// <summary>
+        /// 0 = Single, 1 = Double, 2 = Triple, 3 = Single Bull, 4 = Double Bull
+        /// </summary>
+        Texture2D[] segmentTextures;
 
         bool isEditing = false;
         bool hasMadeChanges = false;
         IntPair selectedSegment = new IntPair(0, 1);
 
         Vector2 boardPosition;
+        float boardScale = 0.33f;
 
         public SegmentMapScreen(string title) : base(title)
         {
@@ -93,7 +98,9 @@ namespace SuperDarts
 
             mapTexture = content.Load<Texture2D>(@"Images\SegmentMap");
 
-            boardPosition = new Vector2(SuperDarts.Viewport.Width - mapTexture.Width * 0.5f, SuperDarts.Viewport.Height * 0.5f);
+            boardScale = 0.8f * (float)SuperDarts.Viewport.Height / (float)mapTexture.Height;
+
+            boardPosition = new Vector2(SuperDarts.Viewport.Width - boardScale * mapTexture.Width * 0.5f - 20.0f, SuperDarts.Viewport.Height * 0.5f);
 
             segmentTexture = content.Load<Texture2D>(@"Images\Segment");
             tripleTexture = content.Load<Texture2D>(@"Images\Triple");
@@ -101,7 +108,7 @@ namespace SuperDarts
             singleBullTexture = content.Load<Texture2D>(@"Images\SingleBull");
             doubleBullTexture = content.Load<Texture2D>(@"Images\DoubleBull");
 
-            texture = new Texture2D[] { segmentTexture, doubleTexture, tripleTexture, singleBullTexture, doubleBullTexture };
+            segmentTextures = new Texture2D[] { segmentTexture, doubleTexture, tripleTexture, singleBullTexture, doubleBullTexture };
         }
 
         void back_OnSelected(object sender, EventArgs e)
@@ -190,7 +197,10 @@ namespace SuperDarts
                     selectedSegment.Y = 5;
             }
 
-            Rectangle boardRectangle = new Rectangle((int)(boardPosition.X - mapTexture.Width * 0.5), (int)(boardPosition.Y - mapTexture.Height * 0.5), mapTexture.Width, mapTexture.Height);
+            Rectangle boardRectangle = new Rectangle((int)(boardPosition.X - boardScale * mapTexture.Width * 0.5 - 20.0f),
+                                        (int)(boardPosition.Y - boardScale * mapTexture.Height * 0.5),
+                                        (int)(mapTexture.Width * boardScale),
+                                        (int)(mapTexture.Height * boardScale));
 
             drawCoords = false;
             mouseOver = null;
@@ -198,8 +208,8 @@ namespace SuperDarts
 
             if (boardRectangle.Contains(inputState.CurrentMouseState.X, inputState.CurrentMouseState.Y))
             {
-                int dx = inputState.CurrentMouseState.X - (int)(boardPosition.X - mapTexture.Width * 0.5f);
-                int dy = inputState.CurrentMouseState.Y - (int)(boardPosition.Y - mapTexture.Height * 0.5f);
+                int dx = inputState.CurrentMouseState.X - (int)(boardPosition.X - boardScale * mapTexture.Width * 0.5f - 20.0f);
+                int dy = inputState.CurrentMouseState.Y - (int)(boardPosition.Y - boardScale * mapTexture.Height * 0.5f);
 
                 float rotation = (float)Math.Atan2(dy, dx);
 
@@ -210,15 +220,15 @@ namespace SuperDarts
                 Vector2 segmentVector = Vector2.UnitY;
                 Matrix rotationMatrix = Matrix.CreateRotationZ(MathHelper.ToRadians(18));
 
-                if (distance < 350.0f)
+                if (distance < 350.0f * boardScale) //Inside dartboard
                 {
                     drawCoords = true;
 
-                    if (distance < 15.0f)
+                    if (distance < 15.0f * boardScale) //Double bull
                     {
                         mouseOver = new IntPair(25, 2);
                     }
-                    else if (distance < 40.0f)
+                    else if (distance < 40.0f * boardScale) //Single bull
                     {
                         mouseOver = new IntPair(25, 1);
                     }
@@ -228,14 +238,14 @@ namespace SuperDarts
                         {
                             float angle = (float)Math.Acos(Vector2.Dot(segmentVector, tempVector));
 
-                            float TRIPLE_RADIUS = 190.0f;
-                            float DOUBLE_RADIUS = 320.0f;
+                            float TRIPLE_RADIUS = 190.0f * boardScale;
+                            float DOUBLE_RADIUS = 320.0f * boardScale;
 
                             if (Math.Abs(angle) < MathHelper.ToRadians(9.0f))
                             {
                                 mouseOver = new IntPair(segmentOrder[i], 0);
 
-                                if (distance > TRIPLE_RADIUS && distance < TRIPLE_RADIUS + 30.0f) // Triple
+                                if (distance > TRIPLE_RADIUS && distance < TRIPLE_RADIUS + 30.0f * boardScale) // Triple
                                 {
                                     mouseOver.Y = 3;
                                 }
@@ -336,8 +346,15 @@ namespace SuperDarts
 
         void bindScreen_OnDartHit(object sender, EventArgs e)
         {
+            SuperDarts.SoundManager.PlaySound(SoundCue.Single);
             segmentMap[bindScreen.SelectedSegment] = bindScreen.SegmentCoordinates;
             hasMadeChanges = true;
+        }
+
+        public override void CancelScreen()
+        {
+            back_OnSelected(null, null);
+            //base.CancelScreen();
         }
 
         public override void Draw(Microsoft.Xna.Framework.Graphics.SpriteBatch spriteBatch)
@@ -352,7 +369,7 @@ namespace SuperDarts
 
             offset = new Vector2(mapTexture.Width, mapTexture.Height) * 0.5f;
             position = boardPosition;
-            spriteBatch.Draw(mapTexture, position - offset, Color.White);
+            spriteBatch.Draw(mapTexture, position, null, Color.White, 0, offset, boardScale, SpriteEffects.None, 0);
             float rotation = 0;
             int index = 1;
 
@@ -360,7 +377,7 @@ namespace SuperDarts
 
             foreach (KeyValuePair<IntPair, IntPair> p in temp)
             {
-                Color c = Color.Green * 0.33f;
+                Color c = Color.Lime * 0.33f;
 
                 if (p.Value == null)
                 {
@@ -381,7 +398,7 @@ namespace SuperDarts
                 }
                 
                 offset = new Vector2(mapTexture.Width, mapTexture.Height) * 0.5f;
-                spriteBatch.Draw(texture[index], position, null, c, MathHelper.ToRadians(rotation * 18.0f), offset, 1.0f, SpriteEffects.None, 0); 
+                spriteBatch.Draw(segmentTextures[index], position, null, c, MathHelper.ToRadians(rotation * 18.0f), offset, boardScale, SpriteEffects.None, 0); 
             }
 
             if (mouseOver != null)
@@ -399,7 +416,26 @@ namespace SuperDarts
                 offset = ScreenManager.Trebuchet24.MeasureString(text) * 0.5f;
 
                 if (drawCoords)
+                {
                     spriteBatch.DrawString(ScreenManager.Trebuchet24, text, position - offset, Color.White);
+
+                    position = boardPosition;
+
+                    if (mouseOver.X != 25)
+                        rotation = segmentRotation[mouseOver.X - 1];
+                    else
+                        rotation = 0;
+
+                    offset = new Vector2(mapTexture.Width, mapTexture.Height) * 0.5f;
+                    index = mouseOver.Y - 1;
+
+                    if (mouseOver.X == 25 && mouseOver.Y == 1)
+                        index = 3;
+                    else if (mouseOver.X == 25 && mouseOver.Y == 2)
+                        index = 4;
+
+                    spriteBatch.Draw(segmentTextures[index], position, null, Color.White * 0.33f, MathHelper.ToRadians(rotation * 18.0f), offset, boardScale, SpriteEffects.None, 0);
+                }
             }
 
             if (isEditing)
@@ -414,7 +450,7 @@ namespace SuperDarts
                 else if(selectedSegment.Y == 5)
                     index = 4;
 
-                spriteBatch.Draw(texture[index], position, null, Color.Yellow * 0.33f, MathHelper.ToRadians(rotation * 18.0f), offset, 1.0f, SpriteEffects.None, 0);
+                spriteBatch.Draw(segmentTextures[index], position, null, Color.White * 0.33f, MathHelper.ToRadians(rotation * 18.0f), offset, boardScale, SpriteEffects.None, 0);
             }
 
             spriteBatch.End();

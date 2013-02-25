@@ -23,7 +23,7 @@ namespace SuperDarts
 
             MenuItems.Items.Add(clear);
 
-            MenuItems.Items.Reverse(); //Want clear to end up at the top of the list
+            MenuItems.Items.Reverse(); //Want clear to end up at the top of the list so reverse
 
             SuperDarts.SerialManager.OnDartRegistered = null;
             SuperDarts.SerialManager.OnDartHit = new SerialManager.DartHitDelegate(HandleDart);

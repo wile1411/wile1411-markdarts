@@ -125,8 +125,23 @@ namespace SuperDarts
 
         void Back_OnSelected(object sender, EventArgs e)
         {
-            SuperDarts.Options.Save();
+            if (SuperDarts.Options.Save())
+            {
+                var mb = new MessageBoxScreen("Options saved to file: " + Options.OptionsFilename + "!", string.Empty, MessageBoxButtons.Ok);
+                SuperDarts.ScreenManager.AddScreen(mb);
+            }
+            else
+            {
+                var mb = new MessageBoxScreen("Error", "Options could not be saved!", MessageBoxButtons.Ok);
+                SuperDarts.ScreenManager.AddScreen(mb);
+            }
             this.ExitScreen(this, null);
+        }
+
+        public override void CancelScreen()
+        {
+            Back_OnSelected(null, null);
+            //base.CancelScreen();
         }
 
         void EditSegmentMap_OnSelected(object sender, EventArgs e)
